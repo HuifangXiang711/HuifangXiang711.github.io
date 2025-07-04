@@ -11,9 +11,8 @@ I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State
 
 ## Research Interests
 
-- Machine Learning
-- Natural Language Processing
-- Data Mining
+- Trustworthy AI
+- Large Language models
 
 ## Education
 
