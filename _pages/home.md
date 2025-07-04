@@ -23,7 +23,7 @@ I am Huifang Xiang, a first-year Ph.D. student in Computer Engineering at Stony 
 - **New results on modeling and hybrid control for malware propagation in cyber–physical systems**. **Huifang Xiang**,
 Ruimei Zhang,
 Ziling Wang,
-Di Dong. *Computers & Security*, 2025. [PDF](../assets/paper/1-s2.0-S0167404825002226-main.pdf)
+Di Dong. *Computers & Security*, 2025. [PDF](/assets/paper/1-s2.0-S0167404825002226-main.pdf)
 
 ## Projects
 
