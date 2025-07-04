@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xinyu Liu"
+  name             : "Huifang Xiang"
   avatar           : "/assets/images/bio-photo.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "East Lansing, MI"
+  bio              : "Elle veut à la fois mourir et aller à Paris."
+  location         : "Stony Brook, NY"
   email            : "liuxin73@msu.edu"
   links:
     - label: "Email"
@@ -124,7 +124,7 @@ author:
       url: "mailto:liuxin73@msu.edu"
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
-    #   url: "https://xinyuliu.github.io"
+    #   url: "https://huifangxiang711.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -138,7 +138,8 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar icon-pad-right"
+      icon: "fab fa-fw fa-google-scholar"
+      # icon: "ai ai-google-scholar icon-pad-right"
       url: "https://scholar.google.com/citations?user=你的ID"
     # - label: "ORCID"
     #   icon: "ai ai-orcid"
