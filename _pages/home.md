@@ -7,12 +7,12 @@ author_profile: true
 
 ## About Me
 
-I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State University, advised by [Prof. Jun Wu](https://junwu6.github.io/). My research interests include Machine Learning and Natural Language Processing.
+I am Huifang Xiang, a first-year Ph.D. student in Computer Engineering at Stony Brook University, advised by [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol). My research interests include Nonlinear Dynamics and Multi-agent Systems.
 
 ## Research Interests
 
-- Trustworthy AI
-- Large Language models
+- Nonlinear Dynamics
+- Multi-agent Systems
 
 ## Education
 
@@ -20,8 +20,10 @@ I am Xinyu Liu, a first-year Ph.D. student in Computer Science at Michigan State
 
 ## Selected Publications
 
-- **Title1**. Author1, Author2, Xinyu Liu. *Conference*, 2023. [PDF](#)
-- **Title2**. Author1, Xinyu Liu, Author3. *Journal*, 2022. [PDF](#)
+- **New results on modeling and hybrid control for malware propagation in cyber–physical systems**. **Huifang Xiang**,
+Ruimei Zhang,
+Ziling Wang,
+Di Dong. *Computers & Security*, 2025. [PDF](https://kwnsfk27.r.eu-west-1.awstrack.me/L0/https:%2F%2Fauthors.elsevier.com%2Fc%2F1lDJkc43v8C3o/1/01020197418a378c-c2df7369-3162-4994-bda8-515db87e01c9-000000/kIn6suFpyGXcSfFE5ljJDqjJNhg=429)
 
 ## Projects
 
