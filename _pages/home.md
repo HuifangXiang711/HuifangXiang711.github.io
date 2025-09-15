@@ -7,7 +7,7 @@ author_profile: true
 
 ## About Me
 
-I am Huifang Xiang, a first-year Ph.D. student in Computer Engineering at Stony Brook University, advised by [Prof. Ji Liu](https://sites.google.com/site/jiliucontrol). My research interests include Nonlinear Dynamics and Multi-agent Systems.
+I am Huifang Xiang, a first-year Ph.D. student in Computer Engineering at Stony Brook University, my research interests include Nonlinear Dynamics and Multi-agent Systems.
 
 ## Research Interests
 
